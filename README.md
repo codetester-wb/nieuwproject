@@ -2,4 +2,4 @@
 1e poging
 Hee, het is gelukt!
 
-Hellow Word!
+Hello World!
